@@ -1,1 +1,1 @@
-# Dog_vs_Cat_Classifier_Using_ML_And_CNN
+# Dog vs Cat Classifier Using ML And CNN
